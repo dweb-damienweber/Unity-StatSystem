@@ -1,0 +1,18 @@
+﻿public enum EStatType
+{
+    HEALTH,
+    MANA,
+
+    PHYSICAL_DMG,
+    FIRE_DMG,
+    COLD_DMG,
+    LIGHTNING_DMG,
+
+    PHYSICAL_RES,
+    FIRE_RES,
+    COLD_RES,
+    LIGHTNING_RES,
+
+    MOVEMENT_SPEED,
+    ATTACK_SPEED
+}
